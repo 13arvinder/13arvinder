@@ -3,7 +3,6 @@
 - 💞️  I’m looking to collaborate on Open-Source GoLang Projects and JavaScript (Frontend & backend ) Projects
 - 📫 my updation on https://www.linkedin.com/in/13arvinder-singh-/
 - 😄  Ask me about fullstack-Developement
-- ⚡ Fun fact: ...
 
 <!---
 13arvinder/13arvinder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
